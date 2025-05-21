@@ -76,7 +76,7 @@
   },
   "pnpm": {
     "onlyBuiltDependencies": [
-      "sqlite3"
+      "better-sqlite3": "^8.0.1"
     ],
     "overrides": {
       "@types/node": "^18.16.16",
@@ -101,4 +101,4 @@
       "element-plus@2.4.3": "patches/element-plus@2.4.3.patch"
     }
   }
-}
+
